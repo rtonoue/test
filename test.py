@@ -4,5 +4,5 @@ import matplotlib.pyplot as plt
 x = np.arange(0,10)
 y = np.sin(x)
 
-plt.plot(x,y, "r--")
+plt.plot(x,y, "b--")
 plt.show()
